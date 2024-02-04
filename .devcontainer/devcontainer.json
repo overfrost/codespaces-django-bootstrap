@@ -8,9 +8,7 @@
   },
   "customizations": {
     "codespaces": {
-      "openFiles": [
-        "hello_world/templates/index.html"
-      ]
+      "openFiles": []
     },
     "vscode": {
       "extensions": [
