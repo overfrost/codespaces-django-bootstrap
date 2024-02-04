@@ -1,5 +1,18 @@
 # GitHub Codespaces ♥️ Django
 
+Changes from default GitHub template
+-Update Django version to 5.0.1
+-Update django_broswer_reload to 1.01
+-Removed hello world temp directory, template is ready to run new project
+-Added bootstrap suppport
+
+To begin your project
+```python
+django-admin startproject <<myproj>>
+```
+
+
+
 Welcome to your shiny new Codespace running Django! We've got everything fired up and running for you to explore Django.
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
